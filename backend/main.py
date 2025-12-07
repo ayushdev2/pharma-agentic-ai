@@ -19,6 +19,7 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "https://pharma-agentic-langgraph-drab.vercel.app",
         "https://*.vercel.app",
+        "https://*.netlify.app",
         "https://pharma-agentic-ai-zsgc.onrender.com"
     ],
     allow_credentials=True,
